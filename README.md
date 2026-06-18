@@ -21,6 +21,5 @@
 
 ## 🤝 Let's Connect & Grow!
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-*   📧 **Email:** [your.email@example.com]
+*   *   📧 **Email:** [mesandeshdhakal24@gmail.com]
 *   🌱 Always open to code reviews, advice, or collaborating on student projects!
